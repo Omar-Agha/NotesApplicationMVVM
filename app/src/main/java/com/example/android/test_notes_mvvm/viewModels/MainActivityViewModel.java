@@ -15,7 +15,6 @@ import java.util.List;
 
 public class MainActivityViewModel extends AndroidViewModel {
 
-
     private LiveData<List<Note>> mNotes;
     private NotesRepository mNoteRepo;
 
